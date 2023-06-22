@@ -43,5 +43,3 @@ mongoose
   .catch((err) => console.log(err));
 
 
-// senha aR7oGXFKsoHJR41B username diegohenriquegalvao
-// mongodb+srv://diegohenriquegalvao:aR7oGXFKsoHJR41B@apicluster.favsa0t.mongodb.net/bancodaapi?retryWrites=true&w=majority
